@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/egregors/passkey/deps"
+	"github.com/kkszysiu/passkey/deps"
 	"github.com/go-webauthn/webauthn/webauthn"
 
-	logger "github.com/egregors/passkey/log"
+	logger "github.com/kkszysiu/passkey/log"
 )
 
 const (
