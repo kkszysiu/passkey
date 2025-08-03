@@ -15,8 +15,8 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/egregors/passkey/deps"
-	"github.com/egregors/passkey/log"
+	"github.com/kkszysiu/passkey/deps"
+	"github.com/kkszysiu/passkey/log"
 )
 
 func body(key, value string) io.Reader {
